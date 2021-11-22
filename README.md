@@ -1,0 +1,2 @@
+# CONVERTER
+The goal of the project is to build a converter for converting a given quantity into other quantities. For example:-to convert 10km to meters , millimeters , inches , feet, etc. Python provides such type of syntax that it helps to do coding in fewer steps as compared to java or C++. The converter can be further modified and provided with more types and some more quantities for more results.Types of conversions like currency , volume,area, energy ,speed, angle, power ,data ,etc. The program is made in wing 101 7.0  that is an IDE that works with python 3.7.3. 
